@@ -1,0 +1,245 @@
+
+.Titulo{
+    margin: 0px;
+    font-size: 60px;
+    text-align: center;
+    color: darkmagenta;
+    font-family: inherit;
+}
+
+.texto1{
+     margin: 0px;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+    font-family: inherit;
+}
+.sub_tabla{
+    margin: 0px;
+    background-color:plum;
+    font-size: 35px;
+    text-align: center;
+    color: darkslateblue;
+    font-family: fantasy;
+}
+.sub_listas{
+    margin: 0px;
+    font-size: 80px;
+    text-align: left;
+    color: black;
+    font-family: cursive;
+}
+.h3{
+    font-size: 30px;
+    background-color: plum;
+    text-align: center;
+    color: darkviolet;
+    font-family: fantasy;
+}
+.sub_2{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-family: inherit;
+}
+.p_head{
+    background-color:plum;
+    font-size: 20px;
+    text-align: center;
+    color:paleturquoise;
+    font-family: inherit;
+}
+.parrafo_1{
+    font-size:20px;
+    color: black;
+    font-family: inherit;
+}
+.para_body{
+    background-color:plum;
+    font-size: 20px;
+    text-align: center;
+    color: paleturquoise;
+    font-family: inherit;
+}
+.parrafo{
+    font-size:20px;
+    color: black;
+    font-family: inherit;
+}
+.Lista_1{
+    text-align: center;
+}
+.parrafo_0{
+      font-size: 30px;
+    background-color: plum;
+    text-align: center;
+    color: darkviolet;
+    font-family: inherit;
+}
+.p_parrafo{
+     background-color:plum;
+    font-size: 20px;
+    text-align: center;
+    color:paleturquoise;
+    font-family: inherit;
+}
+.descri_parrafo{
+      font-size:20px;
+    color: black;
+    font-family: inherit;
+}
+.titulo_body{
+      font-size: 25px;
+    text-align: left;
+    color:darkmagenta;
+    font-family: inherit;
+}
+.etiqueta{
+    font-size: 25px;
+    font-family: inherit;
+
+}
+.definicion{
+    font-size: 20px;
+    color:blue;
+}
+.categoria{
+    background-color:plum;
+    font-size: 20px;
+    text-align: center;
+    color: paleturquoise;
+    font-family: inherit;
+}
+.estructura{
+     font-size: 25px;
+    text-align: left;
+    color:black;
+    font-family: inherit;
+}
+.defi_estructuras{
+    font-size: 20px;
+    color: blue;
+}
+.lis_1{
+     background-color:darkviolet;
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.lis_2{
+    background-color:darkviolet;
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.lis_3{
+    background-color:darkviolet;
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.lis_4{
+    background-color:darkviolet;
+    font-size: 20px;
+    color:black;
+    font-family:inherit;
+}
+.lis_5{
+    background-color:darkviolet;
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.lis_6{
+    background-color:darkviolet;
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.pagina_1{
+   background-image: radial-gradient(circle at 50% -20.71%, #a0d9e6 0, #a2d9ea 5%, #a4d8ed 10%, #a8d7ef 15%, #acd6f2 20%, #b1d4f3 25%, #b6d3f4 30%, #bbd2f4 35%, #c1d0f4 40%, #c7cff3 45%, #cdcdf2 50%, #d3cbf0 55%, #d8caee 60%, #dec9eb 65%, #e3c7e7 70%, #e7c6e4 75%, #ebc5e0 80%, #efc4db 85%, #f2c4d7 90%, #f4c3d2 95%, #f6c3ce 100%);
+     }
+.body_2{
+    font-size: 25px;
+    color:black;
+    font-family: inherit;
+}
+.titulo_elemento{
+     font-size: 25px;
+    color:black;
+    font-family: inherit;
+}
+.head_2{
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.Body_3{
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.nombre{
+     font-size: 15px;
+    text-align: end;
+    color: black;
+    font-family:cursive;
+}
+.nuevo_1{
+     margin: 0px;
+    font-size: 60px;
+    text-align: center;
+    color: darkmagenta;
+    font-family: inherit;
+    
+}
+.titulo_2{
+     margin: 8px;
+    font-size: 50px;
+    text-align: center;
+    color: darkmagenta;
+    font-family: inherit;
+    background-color:violet;
+}
+.tabla_et{
+    margin: 5px 450px 5px 450px;
+}
+.2{
+    width: 1300px
+    margin-top: 10px;
+    margin: auto 60px ;
+}
+.numbers{
+    
+    border-radius: 1px solid white;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    float:left;
+}
+ 
+.numbers div{
+    width:600px;
+    height:150px;
+    border: 1px solid ;
+    padding: 10px;
+    margin: 10px;
+
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.s{
+    background-color: plum;
+    
+}
+
+@media screen and (max-width: 376px) {
+    /* STYLES HERE */
+   :root{
+       --phone-laterh1: 2rem;
+       --phone-laterh2: 1.5rem;
+       --phone-laterh3: 1.3rem;
+       --phone-paraf: 1rem;
+   }
+  } 

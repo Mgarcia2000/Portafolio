@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    --color1:#FC4ABD;
+    --color2:#FF96DB;
+    --color3:#F06FFF;
+    --color4:#DA85FF;
+    --color5:#CAA2FC;
+}
+header{
+    width: 100%;
+    height: 60px;
+    padding: 10px 50px 0px 50px;
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   background-color: #eab6f7;
+   background-image: radial-gradient(circle at 50% -20.71%, #ffddfc 0, #fdd0f8 16.67%, #efc3f5 33.33%, #deb5f2 50%, #caa9f0 66.67%, #b49eef 83.33%, #9a96ee 100%);
+}
+.logo{
+    color:
+}
+
+
+    
